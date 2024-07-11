@@ -1,7 +1,6 @@
-# play-audio
-Command-line tool to play audio using [OpenSL ES](https://www.khronos.org/opensles/).
+# Play-audio
 
-Available in [Termux](https://termux.com) for installation with:
+Command-line tool to play audio using [OpenSL ES](https://www.khronos.org/opensles/).
 
     packages install play-audio
 
